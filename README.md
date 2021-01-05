@@ -40,7 +40,7 @@ Github Repository: https://github.com/Richardflores009/book-search-engine <br>
 
 ## Screenshots:
 
-![](src/assets/img/screenshot.png)
+![](https://raw.githubusercontent.com/Richardflores009/book-search-engine/master/assets/img/Screen%20Shot%202021-01-04%20at%2019.12.13.png)
 
 ## Questions:
 Contact me:<br>
